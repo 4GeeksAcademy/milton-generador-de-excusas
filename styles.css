@@ -1,0 +1,16 @@
+body {
+  background-color: #fff8e7;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  color: #c0392b;
+}
+
+#excuse {
+  font-size: 22px;
+  color: #333;
+  margin-top: 30px;
+}
